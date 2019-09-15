@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: Elliott(EunChae Yoon)
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
-
-email: agus[at]python.web.id
+저는 윤은채입니다.
