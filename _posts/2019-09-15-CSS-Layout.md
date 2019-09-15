@@ -9,11 +9,13 @@ categories: [CSS]
 
 ---
 
+
+
 오늘은 코드스테이츠 Pre Course 7주차 CSS 강의를 들으며 실습했다.
 
 
 
-#### CODE PEN 웹사이트 사용하기
+### CODE PEN 웹사이트 사용하기
 
 * [코드펜](https://codepen.io/)
 
@@ -21,7 +23,7 @@ categories: [CSS]
 
   이곳에서 간단한것들을 실습해볼수도있고 저장할수도 있다.
 
-#### CSS Layout 실습
+### CSS Layout 실습
 
 * [윤은채 레이아웃 만들기 실습](https://codepen.io/elliottyoon7/pen/JjPBNwb)
 

@@ -1,12 +1,10 @@
 ---
-
 layout: post
 title:  "깃허브 블로그를 선택한이유"
 description: ""
 author: Elliott Yoon
 date:   2019-09-12 01:20:23 +0700
 categories: [Github]
-
 ---
 
 
