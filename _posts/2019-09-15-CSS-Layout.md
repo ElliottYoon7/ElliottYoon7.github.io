@@ -1,12 +1,10 @@
 ---
-
 layout: post
 title:  "CSS Layout"
 description: ""
 author: Elliott Yoon
 date:   2019-09-15
 categories: [CSS]
-
 ---
 
 
