@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Elliott(EunChae Yoon)
-permalink: /about/
+title: About
 ---
 
-저는 윤은채입니다.
+<p class="message">
+  안녕하세요 윤은채입니다.
+</p>

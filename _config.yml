@@ -1,56 +1,74 @@
-title: 내가 오늘 배운것
-description: My Personal Stack Problems
-author: Elliott Yoon
-github: https://github.com/ElliottYoon7
-about: 뮤지컬배우 개발자 되다! 매일매일 공부한 내용을 공유하는 블로그입니다!
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
-
-enableTags: true
-tagarray: []
-
-collections:
-  project:
-    output: true
-    permalink: /project/:path/
-
-social:
-    # - icon: fa-facebook
-    #   link: "#"
-    # - icon: fa-twitter
-    #   link: "#"
-    # - icon: fa-linkedin
-    #   link: "#"
-    # - icon: fa-stack-exchange
-    #   link: "#"
-    - icon: fa-github
-      link: "https://github.com/ElliottYoon7"
-
-share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
-
-urls:
-    - text: About Me
-      url: /about/
-    # - text: My Projects
-    #   url: /projects/
-    # - text: XML Feed
-    #   url: /feed.xml
-
-url: "https://ElliottYoon7.github.io"
+# Site Info
+title: '라만차의 개발공부로그'
+tagline: '라만차의 개발공부로그'
+description: '프로그래밍을 공부하며 배운점 느낀점을 기록하는 곳입니다.'
 baseurl: ""
-paginate: 20
-per_page: 20
-paginate_path: "/page/:num/"
-markdown: kramdown
+url: https://ElliottYoon7.github.io
+logo: '/public/grow up.png'
+
+# Site configurations
 gems:
   - jekyll-paginate
-  - jekyll-gist
+markdown: kramdown
+kramdown:
+  input: GFM
+excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss
+paginate: 5
+paginate_path: '/blog/page:num'
+permalink: pretty
 
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
-  ignore:
-    envs: ['development']
+version: 1.0.0
+
+# About/contact
+author:
+  name: Elliott (EunChae Yoon)
+  description: 라만차(EunChae Yoon)
+  contact:
+    # linkedin:  https://www.linkedin.com/in/lizhihao
+    github:    https://github.com/ElliottYoon7
+    facebook:  https://www.facebook.com/dbsdmsco
+    # twitter:   https://twitter.com/Li_Zhihao
+    # weibo:     http://weibo.com/41173780
+    email:    mailto:elliott.yoon7@gmail.com
+
+# Navigation (2nd level links supported)
+nav:
+  Home:
+    - '/blog/'
+  Categories:
+    - '/'
+    # - { Categories All: '/blog/categories/' }
+    - { TIL (Today I Learned): '/blog/categories/#til' }
+    - { 컴퓨터공학 : '/blog/categories/#컴퓨터공학' }
+    # - { Django: '/blog/categories/#django' }
+    # - { python: '/blog/categories/#python' }
+    - { javascript: '/blog/categories/#javascript' }
+    # - { nodejs: '/blog/categories/#nodejs' }
+    # - { MySQL: '/blog/categories/#MySQL' }
+    - { 알고리즘 문제풀이: '/blog/categories/#알고리즘-문제풀이' }
+    - { git: '/blog/categories/#git' }
+    - { firebase: '/blog/categories/#firebase' }
+    - { etc: '/blog/categories/#etc' }
+    # - { Tags: '/blog/tags/' }
+  About:
+    - '/about/'
+  Search:
+    - '/search/'
+
+# Where are tags and categories displayed
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
+
+
+# Puglins
+mathjax: true # whether support mathjax
+google_analytics_token: 'UA-92094009-1' # leave blank if you don't want google analytics
+disqus_short_name: 'wayhome25-github-io' # leave blank if you don't want disqus
+
+
+# Use the following plug-ins
+gems:
+  - jekyll-paginate
