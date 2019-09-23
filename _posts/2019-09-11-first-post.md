@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "첫 포스트"
+title:  "[Github]  첫 포스트"
 description: ""
 author: Elliott Yoon
 date:   2019-09-11 02:06:23 +0700

@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "parameter(매개변수) 와 argument(argument)"
+title:  "[JavaScript] parameter(매개변수) 와 argument(argument)"
 author: Elliott Yoon
 date:   2019-09-22
 categories: [JavaScript]

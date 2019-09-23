@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "template 태그 사용하기"
+title:  "[JavaScript] template 태그 사용하기"
 author: Elliott Yoon
 date:   2019-09-16
 categories: [JavaScript]

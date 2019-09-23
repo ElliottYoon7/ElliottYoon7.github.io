@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CSS Layout"
+title:  "[CSS] CSS Layout"
 description: ""
 author: Elliott Yoon
 date:   2019-09-15

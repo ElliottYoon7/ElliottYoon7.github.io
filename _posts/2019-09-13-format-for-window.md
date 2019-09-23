@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "window10 포맷하기 A to Z"
+title:  "[Computer] window10 포맷하기 A to Z"
 description: ""
 author: Elliott Yoon
 date:   2019-09-13  +0700
