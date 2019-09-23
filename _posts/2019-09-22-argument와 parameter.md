@@ -28,3 +28,4 @@ timeToGoHome(300, 15) //여기가 전달인자argument
 
 
 parameter와 argument가 자주 헛갈린다 개념을 잘 잡아놓자.
+
