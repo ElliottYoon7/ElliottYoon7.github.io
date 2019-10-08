@@ -1,9 +1,9 @@
 ---
 
 layout: post
-title:  "[TIL] 19-10-07"
+title:  "[TIL] 19-10-08"
 author: Elliott Yoon
-date:   2019-10-07 
+date:   2019-10-08 
 categories: [TIL]
 
 ---
