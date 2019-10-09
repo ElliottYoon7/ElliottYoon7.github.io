@@ -44,6 +44,24 @@ binary search
 
 분할정복
 
+Math.log(7)
+
+Math.log(10)
+
+...
+
+
+
+linear
+
+for문 한번 돌리는거
+
+
+
+
+
+
+
 
 
  
